@@ -39,3 +39,15 @@ For any questions or suggestions, please reach me at github.com/Levi-Man or at i
 
 Get products lists all products
 <img src="https://github.com/Levi-Man/e-Commerce/blob/main/Assets/Get-Products.png" alt="Screenshot of Insomnia">
+
+
+Post products adds a new product with respective catagory and tags
+<img src="https://github.com/Levi-Man/e-Commerce/blob/main/Assets/Post-Product.png" alt="Screenshot of Insomnia">
+
+
+Put products updates a product
+<img src="https://github.com/Levi-Man/e-Commerce/blob/main/Assets/Put-Product.png" alt="Screenshot of Insomnia">
+
+
+Delete products deletes a specific product
+<img src="https://github.com/Levi-Man/e-Commerce/blob/main/Assets/Delete-Product.png" alt="Screenshot of Insomnia">
