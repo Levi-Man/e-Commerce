@@ -38,4 +38,4 @@ For any questions or suggestions, please reach me at github.com/Levi-Man or at i
 
 
 Get products lists all products
-<img src="C:\Users\Ku\Bootcamp\Working_Folder\UTOR-VIRT-FSF-FT-11-2023-U-LOLC\13-ORM\02-Challenge\Develop\Assets\Get-Products.png" alt=screenshot of program>
+<img src="C:\Users\Ku\Bootcamp\Working_Folder\UTOR-VIRT-FSF-FT-11-2023-U-LOLC\13-ORM\02-Challenge\Develop\../Assets\Get-Products.png" alt="Screenshot of Insomnia">
