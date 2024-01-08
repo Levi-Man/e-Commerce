@@ -38,4 +38,4 @@ For any questions or suggestions, please reach me at github.com/Levi-Man or at i
 
 
 Get products lists all products
-<img src="Assets/Get-Product.png" alt=screenshot of program>
+<img src="../Assets/Get-Product.png" alt="Screenshot of Insomnia">
