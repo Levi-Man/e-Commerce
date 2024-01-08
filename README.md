@@ -35,3 +35,7 @@ Testing to be developed.
 
 ## Questions
 For any questions or suggestions, please reach me at github.com/Levi-Man or at indra.levi.manahan@gmail.com.
+
+
+Get products lists all products
+<img src="Assets/Get-Product.png" alt=screenshot of program>
