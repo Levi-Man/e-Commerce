@@ -51,3 +51,8 @@ Put products updates a product
 
 Delete products deletes a specific product
 <img src="https://github.com/Levi-Man/e-Commerce/blob/main/Assets/Delete-Product.png" alt="Screenshot of Insomnia">
+
+
+Video link: https://drive.google.com/file/d/19GPSOKf8zkqqKHkcO21-n0Y1FESwvI3H/view
+
+GitHub repo: https://github.com/Levi-Man/e-Commerce
